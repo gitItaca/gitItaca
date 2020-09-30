@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some student projects!
+- 🔭 I’m currently working on some student projects!
+- 👯 I’m looking to collaborate on some interesting project
+- 💬 Ask me about programming or 3D.
 
 
 
