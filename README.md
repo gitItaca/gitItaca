@@ -1,7 +1,9 @@
 ### Hi there 👋
-cambiando cosas
-y desde consola
-y desde markdown
+
+🔭 I’m currently working on some student projects!
+
+
+
 <!--
 **gitItaca/gitItaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
