@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on some interesting project
 - 💬 Ask me about programming or 3D.
 
+🚶 
 
 
 <!--
